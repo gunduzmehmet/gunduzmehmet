@@ -1,9 +1,7 @@
-### Hi there 👋
+ <H1> Hello World  👋 </H1>
 
-<!--
-**gunduzmehmet/gunduzmehmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**gunduzmehmet/gunduzmehmet** 
 
 - 🔭 I’m currently working on Apprentice software development at ADA Tech School.
 - 🌱 I’m currently learning HTML, CSS3, JavaScript, Python, PHP, Git
